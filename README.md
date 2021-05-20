@@ -26,6 +26,7 @@ Get credentials:
 First time usage:
 1. Install all packages mentioned in requirements.txt
 2. Use python3 init.py to start the bot.
+3. Change your postcode in init.py
 
 <h2>Error solving</h2>
 Error: Download is performed unsandboxed as root as file 'ANYDEBFILE.deb' 
