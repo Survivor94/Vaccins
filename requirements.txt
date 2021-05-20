@@ -1,0 +1,7 @@
+# Packages to install
+sudo apt update & sudo apt upgrade -y
+sudo apt install git -y
+sudo apt install selenium -y
+sudo apt install python3-pip -y
+pip3 install -U selenium
+pip3 install -U telegram
